@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohraiel!
-- 📫 How to reach me:mmmatta@cpp.edu
+- Mohraiel Matta
+- cpp email:mmmatta@cpp.edu
 
 
