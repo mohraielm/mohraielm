@@ -6,9 +6,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn-images-1.medium.com/max/720/0*41inHKnPhGb04HsO.gif">
 </a>
 
-- 🔭 I’m currently working in a <a target="blank">VR Cybesecurity game</a>
+- 🔭 I’m currently working on a VR Cybesecurity game and creating a website for Player Stats
 
-- 🌱 I’m currently Working on a Website (Reactjs-Nodejs Express)
+- 🌱 I’m currently working on a Website (Reactjs-Nodejs Express)
 
 - 🤝 I Enjoy Frontend developing using React (Js,Ts,CSS,HTML)
 
