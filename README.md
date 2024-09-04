@@ -7,14 +7,16 @@
 </a>
 
 - 👻 I’m currently the CPP sheCodes External Vice President! https://www.cppshecodes.com/
+
+- 🤯 I interned this summer 2024 at Costar Group as a SWE intern using ASP.Net(C#), AngularJS(TS,HTML,CSS), SQL Server, Azure DevOps
   
-- 🔭 I’m currently working on a VR Cybesecurity game and creating a website for Player Stats
+- 🔭 I’m completed my senior project working on a VR Cybesecurity game and creating a website for Player Stats
 
-- 🌱 I’m currently working on a Website (Reactjs-Nodejs Express)
+- 🌱 I’m currently leading a full stack semester long project
 
-- 🤝 I Enjoy Frontend developing using React (Js,Ts,CSS,HTML)
+- 🤝 I Enjoy Frontend developing using React and AngularJS (Js,Ts,CSS,HTML)
 
-- 🌱 I’m currently learning Flutter, Dart, AWS, Azure Databases
+- 🌱 I’m currently learning ASP.Net, VueJS, AWS, SQL Server
 
 - 📫 How to reach me **mmmatta@cpp.edu**
 
