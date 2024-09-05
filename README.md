@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohraiel Matta (Mo) </h1>
-<h3 align="center">Third Year CS major and DS minor at Cal Poly Pomona </h3>
+<h3 align="center">Fourth Year CS major and DS minor at Cal Poly Pomona </h3>
 
 
 <a target="_blank" align="center">
