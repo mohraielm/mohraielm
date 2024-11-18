@@ -8,7 +8,7 @@
 
 - 👻 I’m currently the CPP sheCodes External Vice President! https://www.cppshecodes.com/
 
-- 🤯 I interned this summer 2024 at Costar Group as a SWE intern using ASP.Net(C#), AngularJS(TS,HTML,CSS), SQL Server, Azure DevOps
+- 🤯 I interned summer 2024 at Costar Group as a SWE intern using ASP.Net(C#), AngularJS(TS,HTML,CSS), SQL Server, Azure DevOps
   
 - 🔭 I’m completed my senior project working on a VR Cybesecurity game and creating a website for Player Stats
 
