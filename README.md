@@ -6,19 +6,10 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn-images-1.medium.com/max/720/0*41inHKnPhGb04HsO.gif">
 </a>
 
-- 👻 I’m currently the CPP sheCodes External Vice President! https://www.cppshecodes.com/
+- 👻 I’m currently an SDET 1 at Costar Group!
 
 - 🤯 I interned summer 2024 at Costar Group as a SWE intern using ASP.Net(C#), AngularJS(TS,HTML,CSS), SQL Server, Azure DevOps
   
-- 🔭 I’m completed my senior project working on a VR Cybesecurity game and creating a website for Player Stats
-
-- 🌱 I’m currently leading a full stack semester long project
-
-- 🤝 I Enjoy Frontend developing using React and AngularJS (Js,Ts,CSS,HTML)
-
-- 🌱 I’m currently learning ASP.Net, VueJS, AWS, SQL Server
-
-- 📫 How to reach me **mmmatta@cpp.edu**
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
